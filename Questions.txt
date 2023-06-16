@@ -1,0 +1,36 @@
+select * from tracks limit 10
+-- (1) What are the top 10 most popular tracks based on the "popularity" column?
+    -- select track_name , popularity from tracks order by popularity desc limit 10
+-- Which artist has the highest average energy level in their tracks?
+-- How does the average danceability vary across different genres?
+-- What is the distribution of track durations in the dataset?
+-- Which track has the highest valence (positivity) score?
+-- Are there any correlations between the loudness and energy of tracks?
+-- How does the speechiness of tracks differ across different playlists?
+-- What is the most common key used in tracks?
+-- How has the average acousticness changed over the years?
+-- What is the average duration of tracks in each genre, and which genre has the highest average duration?
+-- Which artist has the highest number of tracks in the dataset, and what is the average popularity of their tracks?
+-- Can you identify the top 5 playlists with the highest average danceability and energy ratings for their tracks?
+-- Are there any significant differences in the distribution of valence scores between tracks released before and after a certain year?
+-- Can you determine the key with the highest average loudness and its corresponding average popularity rating?
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
